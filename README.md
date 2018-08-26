@@ -9,6 +9,6 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/5800726/44631732-e870f580-a98d-11e8-8485-317fb7a2c1aa.pn">
+  <img src="https://user-images.githubusercontent.com/5800726/44631732-e870f580-a98d-11e8-8485-317fb7a2c1aa.pn">
 </p>
 
