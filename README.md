@@ -1,2 +1,2 @@
-# A Simple Game
+# A Simple Javascript Game
 > A Simple Web based game.
