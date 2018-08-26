@@ -7,8 +7,7 @@
 
 # Screenshot
 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5800726/44631732-e870f580-a98d-11e8-8485-317fb7a2c1aa.pn">
+<p align="center"> 
+<img align="center" src="https://user-images.githubusercontent.com/5800726/44631732-e870f580-a98d-11e8-8485-317fb7a2c1aa.png" alt="Game Screenplay">
 </p>
 
