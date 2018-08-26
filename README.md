@@ -3,4 +3,4 @@
 
 # Live Game Preview
 
-https://0x48piraj.github.io/Simple-Game/
+https://0x48piraj.github.io/Simple-JS-Game/
