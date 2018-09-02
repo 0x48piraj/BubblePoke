@@ -1,5 +1,19 @@
-# A Simple Javascript Game
-> A Simple Web based game.
+# Bubble-Poke
+> Bubble Poke is definitely not a boring game. or is it? You want to find out?
+
+## Why?
+I loved theme of **Js13kGames**, so yeah.., this repository. 
+
+
+## What is Js13kGames?
+
+<p align="center"> 
+<img align="center" src="https://2018.js13kgames.com/img/logo.png" alt="Game Screenplay">
+</p>
+
+
+It is a JavaScript coding competition for HTML5 Game Developers. The fun part of the compo is the file size limit set to **13 kilobytes**.
+
 
 # Live Game Preview
 
