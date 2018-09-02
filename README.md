@@ -21,7 +21,7 @@ It is a JavaScript coding competition for HTML5 Game Developers. The fun part of
 
 # Live Game Preview
 
-**https://0x48piraj.github.io/Simple-JS-Game/**
+**https://0x48piraj.github.io/Bubble-Poke/**
 
 # Screenshot
 
