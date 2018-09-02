@@ -24,12 +24,15 @@ It is a JavaScript coding competition for HTML5 Game Developers. The fun part of
 > **12 lines (11 sloc) | 5.61 KB**
 
 
-# Live Game Preview
+# Game Preview
 
 **https://0x48piraj.github.io/Bubble-Poke/**
 
-# Screenshot
+# Game Demo
 
 <p align="center"> 
 <img align="center" src="https://user-images.githubusercontent.com/5800726/44960336-5b90e380-af1b-11e8-92d5-5070dabb01b0.gif" alt="Game Screenplay">
 </p>
+
+
+##### THE GAME IS IN DEVELOPMENT MODE.
