@@ -14,6 +14,10 @@ I loved theme of **Js13kGames**, so yeah.., this repository.
 
 It is a JavaScript coding competition for HTML5 Game Developers. The fun part of the compo is the file size limit set to **13 kilobytes**.
 
+### Size of this game?
+
+> **12 lines (11 sloc) | 5.61 KB**
+
 
 # Live Game Preview
 
