@@ -1,8 +1,8 @@
-# Bubble-Poke
+# Bubble-Poke : Poke the bubbles
 > Bubble Poke is definitely not a boring game. or is it? You want to find out?
 
 <p align="center"> 
-<img align="center" src="https://user-images.githubusercontent.com/5800726/44631732-e870f580-a98d-11e8-8485-317fb7a2c1aa.png" alt="Game Screenplay">
+<img align="center" src="https://user-images.githubusercontent.com/5800726/44961627-eaa8f600-af31-11e8-80a7-9a9bcf3e1587.png" alt="Game Screenplay">
 </p>
 
 
@@ -24,15 +24,20 @@ It is a JavaScript coding competition for HTML5 Game Developers. The fun part of
 > **12 lines (11 sloc) | 5.61 KB**
 
 
-# Game Preview
+# Web Game Preview
 
-**https://0x48piraj.github.io/Bubble-Poke/**
-
-# Game Demo
+> It's optimized for both Desktop and Android based web browsers.
 
 <p align="center"> 
 <img align="center" src="https://user-images.githubusercontent.com/5800726/44960336-5b90e380-af1b-11e8-92d5-5070dabb01b0.gif" alt="Game Screenplay">
 </p>
 
+**Visit : https://0x48piraj.github.io/Bubble-Poke/**
+
+
+## Ported Android Game
+
+
+---
 
 ##### THE GAME IS IN DEVELOPMENT MODE.
