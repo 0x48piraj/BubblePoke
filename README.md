@@ -6,6 +6,8 @@
 </p>
 
 
+
+
 ## Why?
 I loved theme of **Js13kGames**, so yeah.., this repository. 
 
@@ -41,3 +43,6 @@ It is a JavaScript coding competition for HTML5 Game Developers. The fun part of
 ---
 
 ##### THE GAME IS IN DEVELOPMENT MODE.
+
+![image](https://user-images.githubusercontent.com/5800726/44961697-e3ceb300-af32-11e8-9ae2-355dd2aa9577.png)
+
