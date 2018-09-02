@@ -1,6 +1,11 @@
 # Bubble-Poke
 > Bubble Poke is definitely not a boring game. or is it? You want to find out?
 
+<p align="center"> 
+<img align="center" src="https://user-images.githubusercontent.com/5800726/44631732-e870f580-a98d-11e8-8485-317fb7a2c1aa.png" alt="Game Screenplay">
+</p>
+
+
 ## Why?
 I loved theme of **Js13kGames**, so yeah.., this repository. 
 
@@ -26,6 +31,5 @@ It is a JavaScript coding competition for HTML5 Game Developers. The fun part of
 # Screenshot
 
 <p align="center"> 
-<img align="center" src="https://user-images.githubusercontent.com/5800726/44631732-e870f580-a98d-11e8-8485-317fb7a2c1aa.png" alt="Game Screenplay">
+<img align="center" src="https://user-images.githubusercontent.com/5800726/44960336-5b90e380-af1b-11e8-92d5-5070dabb01b0.gif" alt="Game Screenplay">
 </p>
-
