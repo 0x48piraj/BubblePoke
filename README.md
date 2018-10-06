@@ -54,7 +54,7 @@ It is a JavaScript coding competition for HTML5 Game Developers. The fun part of
 <a href = "https://www.linkedin.com/in/0x48piraj/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 </p>
 </td>
-</tr> 
+
 
 <td>
      <img src="https://avatars0.githubusercontent.com/u/24320496?s=250&v=4" />
@@ -67,7 +67,7 @@ It is a JavaScript coding competition for HTML5 Game Developers. The fun part of
 <a href = "https://www.linkedin.com/in/ItzzRitik/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 </p>
 </td>
- 
+ </tr>
   </table>
 
 
