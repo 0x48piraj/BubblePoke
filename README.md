@@ -2,7 +2,7 @@
 > Bubble Poke is definitely not a boring game. or is it? You want to find out?
 
 <p align="center"> 
-<img align="center" src="https://user-images.githubusercontent.com/5800726/44961627-eaa8f600-af31-11e8-80a7-9a9bcf3e1587.png" alt="Game Screenplay">
+<img align="center" src="https://user-images.githubusercontent.com/5800726/44961697-e3ceb300-af32-11e8-9ae2-355dd2aa9577.png" alt="Game Screenplay">
 </p>
 
 
@@ -56,7 +56,6 @@ It is a JavaScript coding competition for HTML5 Game Developers. The fun part of
 </td>
 </tr> 
 
-<tr>
 <td>
      <img src="https://avatars0.githubusercontent.com/u/24320496?s=250&v=4" />
      
@@ -68,7 +67,7 @@ It is a JavaScript coding competition for HTML5 Game Developers. The fun part of
 <a href = "https://www.linkedin.com/in/ItzzRitik/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 </p>
 </td>
-</tr> 
+ 
   </table>
 
 
@@ -78,5 +77,4 @@ It is a JavaScript coding competition for HTML5 Game Developers. The fun part of
 
 ##### THE GAME IS IN DEVELOPMENT MODE.
 
-![image](https://user-images.githubusercontent.com/5800726/44961697-e3ceb300-af32-11e8-9ae2-355dd2aa9577.png)
 
