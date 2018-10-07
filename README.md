@@ -39,6 +39,10 @@ It is a JavaScript coding competition for HTML5 Game Developers. The fun part of
 
 ## BubblePoke on Android 
 
+![Android Graphic](https://user-images.githubusercontent.com/5800726/46580311-fe1f1380-ca3f-11e8-9f4c-5c40b448af25.png)
+
+---
+
 
 ## Developers
 <table>
