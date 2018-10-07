@@ -18,6 +18,7 @@ public class SplashScreenActivity extends AppCompatActivity {
                 try{
                     Thread.sleep(3000);
                     startActivity(changeActivity);
+                    finish();
                 }catch (InterruptedException e){
                     //TODO(treat here)
                 }
