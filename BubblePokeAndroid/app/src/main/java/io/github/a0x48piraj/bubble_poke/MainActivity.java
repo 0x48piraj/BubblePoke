@@ -1,5 +1,6 @@
 package io.github.a0x48piraj.bubble_poke;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MotionEvent;
@@ -34,5 +35,13 @@ public class MainActivity extends AppCompatActivity {
                 "POP.wave.time=new Date().getTime()*0.002;POP.wave.offset=Math.sin(POP.wave.time*0.8)*5;POP.score.accuracy=(POP.score.hit/POP.score.taps)*100;POP.score.accuracy=isNaN(POP.score.accuracy)?0:~~(POP.score.accuracy)},render:function(){var i;POP.Draw.rect(0,0,POP.WIDTH,POP.HEIGHT,'#036');for(i=0;i<POP.wave.total;i++){POP.Draw.circle(POP.wave.x+POP.wave.offset+(i*POP.wave.r),POP.wave.y,POP.wave.r,'#fff')}\n" +
                 "for(i=0;i<POP.entities.length;i+=1){POP.entities[i].render()}\n" +
                 "POP.Draw.text('Hit: '+POP.score.hit,20,30,14,'#fff');POP.Draw.text('Escaped: '+POP.score.escaped,20,50,14,'#fff');POP.Draw.text('Accuracy: '+POP.score.accuracy+'%',20,70,14,'#fff')},loop:function(){requestAnimFrame(POP.loop);POP.update();POP.render()}};POP.collides=function(a,b){var distance_squared=(((a.x-b.x)*(a.x-b.x))+((a.y-b.y)*(a.y-b.y)));var radii_squared=(a.r+b.r)*(a.r+b.r);if(distance_squared<radii_squared){return!0}else{return!1}};POP.Draw={clear:function(){POP.ctx.clearRect(0,0,POP.WIDTH,POP.HEIGHT)},rect:function(x,y,w,h,col){POP.ctx.fillStyle=col;POP.ctx.fillRect(x,y,w,h)},circle:function(x,y,r,col){POP.ctx.fillStyle=col;POP.ctx.beginPath();POP.ctx.arc(x+5,y+5,r,0,Math.PI*2,!0);POP.ctx.closePath();POP.ctx.fill()},text:function(string,x,y,size,col){POP.ctx.font='bold '+size+'px Monospace';POP.ctx.fillStyle=col;POP.ctx.fillText(string,x,y)}};POP.Input={x:0,y:0,tapped:!1,set:function(data){this.x=(data.pageX-POP.offset.left)/POP.scale;this.y=(data.pageY-POP.offset.top)/POP.scale;this.tapped=!0}};POP.Touch=function(x,y){this.type='touch';this.x=x;this.y=y;this.r=5;this.opacity=1;this.fade=0.05;this.update=function(){this.opacity-=this.fade;this.remove=(this.opacity<0)?!0:!1};this.render=function(){POP.Draw.circle(this.x,this.y,this.r,'rgba(255,0,0,'+this.opacity+')')}};POP.Bubble=function(){this.type='bubble';this.r=(Math.random()*20)+10;this.speed=(Math.random()*3)+1;this.x=(Math.random()*(POP.WIDTH)-this.r);this.y=POP.HEIGHT+(Math.random()*100)+100;this.waveSize=5+this.r;this.xConstant=this.x;this.remove=!1;this.update=function(){var time=new Date().getTime()*0.002;this.y-=this.speed;this.x=this.waveSize*Math.sin(time)+this.xConstant;if(this.y<-10){POP.score.escaped+=1;this.remove=!0}};this.render=function(){POP.Draw.circle(this.x,this.y,this.r,'rgba(255,255,255,1)')}};POP.Particle=function(x,y,r,col){this.x=x;this.y=y;this.r=r;this.col=col;this.dir=(Math.random()*2>1)?1:-1;this.vx=~~(Math.random()*4)*this.dir;this.vy=~~(Math.random()*7);this.remove=!1;this.update=function(){this.x+=this.vx;this.y+=this.vy;this.vx*=0.99;this.vy*=0.99;this.vy-=0.25;if(this.y<0){this.remove=!0}};this.render=function(){POP.Draw.circle(this.x,this.y,this.r,this.col)}};window.addEventListener('load',POP.init,!1);window.addEventListener('resize',POP.resize,!1);</script></body></html>\n", "text/html", null);
+    }
+
+    @Override
+    public void onBackPressed() {
+        Intent intent = new Intent(this, MenuActivity.class);
+        startActivity(intent);
+        overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
+        finish();
     }
 }
