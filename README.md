@@ -71,6 +71,17 @@ It is a JavaScript coding competition for HTML5 Game Developers. The fun part of
 <a href = "https://www.linkedin.com/in/ritik-srivastava-8870b87b/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 </p>
 </td>
+<td>
+     <img src="https://avatars1.githubusercontent.com/u/5090316?s=250&v=4" />
+     
+             Federico Matteoni
+
+<p align="center">
+<a href = "https://github.com/FedeX15"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://twitter.com/Fexed_"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/in/fexed/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
  </tr>
   </table>
 
